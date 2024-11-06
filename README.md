@@ -1,0 +1,2 @@
+# BybitSpaces
+Bot for BybitSpaces
